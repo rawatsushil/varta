@@ -1,0 +1,4 @@
+types = [
+	'Group Discussion',
+	'Extempore'
+]
